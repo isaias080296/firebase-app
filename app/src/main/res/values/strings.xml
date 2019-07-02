@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AndoirdBluetoothPrint</string>
+
+    <string-array name="transporte">
+        <item>TR GRANDE</item>
+        <item>TR CHICO</item>
+        <item>TR NEGRO</item>
+        <item>CAMIONETA</item>
+    </string-array>
+
+    <string-array name="estados">
+        <item>Puebla</item>
+        <item>Ciudad de México</item>
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Coahulia de Zaragoza</item>
+        <item>Colima</item>
+        <item>Durango</item>
+        <item>Estado de México</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>Michoacán de Ocampo</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Querétaro</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosí</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz</item>
+        <item>Chiapas</item>
+        <item>Yucatán</item>
+        <item>Zacatecas</item>
+    </string-array>
+
+    <string-array name="numero">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>+5</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="title_activity_main6">Main6Activity</string>
+    <string name="title_activity_main7">Main7Activity</string>
+    <string name="title_activity_e1">e1</string>
+    <string name="title_activity_main12">Main12Activity</string>
+    <string name="title_activity_main42">Main42Activity</string>
+    <string name="title_activity_main8">Main8Activity</string>
+</resources>

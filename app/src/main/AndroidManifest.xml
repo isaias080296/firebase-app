@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="anil.com.andoirdbluetoothprint">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/vitorina1"
+        android:label="Vitorina"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Main8Activity"
+            android:label="@string/title_activity_main8"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".Main42Activity"
+            android:label="@string/title_activity_main42"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main12Activity"
+            android:label="@string/title_activity_main12"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".e1"
+            android:label="@string/title_activity_e1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main7Activity"
+            android:label="@string/title_activity_main7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main6Activity"
+            android:label="@string/title_activity_main6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main5Activity"
+            android:label="@string/title_activity_main5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main4Activity"
+            android:label="@string/title_activity_main4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".model.Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DeviceListActivity"
+            android:theme="@android:style/Theme.DeviceDefault.Dialog" />
+    </application>
+
+</manifest>

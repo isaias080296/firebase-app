@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049772645679",
+    "firebase_url": "https://vitorina-10560.firebaseio.com",
+    "project_id": "vitorina-10560",
+    "storage_bucket": "vitorina-10560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049772645679:android:26a81e4285131dce",
+        "android_client_info": {
+          "package_name": "anil.com.andoirdbluetoothprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049772645679-5mfulh5neanklcrlgn7k6v1f70jekr1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxDoDBXAQC2vXZ2iR6E1oVow2NISvNvi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049772645679-5mfulh5neanklcrlgn7k6v1f70jekr1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
